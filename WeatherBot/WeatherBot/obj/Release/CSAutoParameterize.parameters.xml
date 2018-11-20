@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StorageConnectionString-Web.config Connection String" description="StorageConnectionString Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=experimentalfilestorage;AccountKey=qvBWiARtD54tCIkUo9sK6NPbcqv0IDBstmPuMr1yH7nyl2mm7Rob2JIPgkjarbQP67k5AZByXX47VemOI/31+w==;EndpointSuffix=core.windows.net" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Projects\\AI\ School\\AISchoolBots\\WeatherBot\\WeatherBot\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StorageConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
