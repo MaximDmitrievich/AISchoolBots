@@ -1,0 +1,18 @@
+{
+    "name": "WeatherBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "d38d1850-3f25-11e9-9961-bffe39b3a61d",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Maxim.Eremin\\Documents\\Презентации\\AI School\\AISchoolBots\\WeatherBot\\WeatherBot.bot"
+}
